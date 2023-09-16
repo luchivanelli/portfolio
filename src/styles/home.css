@@ -1,0 +1,58 @@
+.home {
+    min-height: 100vh;
+    gap: 40px;
+    flex-direction: column;
+}
+
+.home-title {
+    padding: 120px 10px 0;
+    animation: izquierda 2s forwards;
+    scrollbar-gutter: stable both-edges;
+}
+
+.home-title p {
+    color: #fff;
+    font-size: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+.home-title p b {
+    color: var(--yellow);
+}
+
+.home-title h1 {
+    margin: 0;
+    font-size: 34px;
+    font-weight: 800;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+    line-height: 32px;
+    animation: title 1.5s infinite alternate-reverse ease-in;
+}
+
+@keyframes title {
+    0% {
+        color: #fff;
+    }
+    100% {
+        color: var(--yellow);
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .home {
+        flex-direction: row;
+        padding: 80px 50px 0;
+        gap: 60px;
+    }
+
+    .home-title {
+        padding: 0;
+    }
+    
+    .home-title h1 {
+        font-size: 40px;
+    }
+}

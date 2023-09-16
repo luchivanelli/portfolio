@@ -1,0 +1,37 @@
+.footer {
+    border-top: 2px solid #0000004d;
+    padding: 10px 0;
+    background-color: var(--violet);
+    gap: 5px;
+}
+
+.footer p {
+    margin: 0;
+    color: var(--yellow);
+    font-size: 14px;
+}
+
+.footer a {
+    padding: 3px 10px;
+    border-radius: 15px;
+    border: 2px solid var(--yellow);
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.5s;
+    font-size: 14px;
+}
+
+.footer a:hover {
+    background-color: var(--yellow);
+    color: var(--violet);
+    transition: all 0.3s;
+}
+
+@media screen and (min-width: 768px) {
+    .footer p {
+        font-size: 16px;
+    }
+    .footer a {
+        font-size: 16px;
+    }
+}

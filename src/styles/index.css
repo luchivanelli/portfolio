@@ -1,0 +1,52 @@
+/* Fuentes */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800&family=Roboto+Mono:wght@100;200;300;400;500;600;700&display=swap');
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Mono', monospace; */
+
+:root {
+  --violet: #4d2a95;
+  --yellow: #e9dea0;
+}
+
+body {
+  font-family: 'Chivo Mono', monospace;
+  background: rgb(0,0,0);
+  background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(77,42,149,1) 0%, rgba(0,0,0,1) 100%);
+  background-attachment: fixed;
+  overflow-x: hidden;
+}
+
+.section-title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  letter-spacing: 2px;
+  font-size: 28px;
+  top: -20px;
+}
+
+@keyframes derecha {
+  0% {
+    transform: translateX(1000px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes izquierda {
+  0% {
+    transform: translateX(-1000px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .section-title {
+    font-size: 32px;
+    top: -22px;
+  }
+
+}
