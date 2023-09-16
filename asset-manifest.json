@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.cf3e631f.css",
+    "main.js": "/portfolio/static/js/main.d11a9b43.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/CV.pdf": "/portfolio/static/media/CV.2071cab15eeaaa22c28a.pdf",
+    "static/media/infoplayer.png": "/portfolio/static/media/infoplayer.946a27d6a2b59432b60f.png",
+    "static/media/luciana-micaela-vanelli-bn.jpg": "/portfolio/static/media/luciana-micaela-vanelli-bn.4087b900c9b4449c615c.jpg",
+    "static/media/luciana-micaela-vanelli.jpg": "/portfolio/static/media/luciana-micaela-vanelli.831aefb778df2daf152a.jpg",
+    "static/media/pia.png": "/portfolio/static/media/pia.5a8e5ec7fa245aceec88.png",
+    "static/media/todolist.png": "/portfolio/static/media/todolist.9426be662fbf386787c3.png",
+    "static/media/calculator.png": "/portfolio/static/media/calculator.f235e921f2ae5fc63eac.png",
+    "index.html": "/portfolio/index.html",
+    "main.cf3e631f.css.map": "/portfolio/static/css/main.cf3e631f.css.map",
+    "main.d11a9b43.js.map": "/portfolio/static/js/main.d11a9b43.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf3e631f.css",
+    "static/js/main.d11a9b43.js"
+  ]
+}
