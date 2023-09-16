@@ -5,8 +5,6 @@
     background-color: #00000081;
     border-radius: 12px;
     border: 2px solid #e9dea062;
-    animation: derecha 2s forwards;
-    scrollbar-gutter: stable both-edges;
     max-width: 800px;
 }
 

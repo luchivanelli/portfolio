@@ -6,8 +6,6 @@
 
 .home-title {
     padding: 120px 10px 0;
-    animation: izquierda 2s forwards;
-    scrollbar-gutter: stable both-edges;
 }
 
 .home-title p {

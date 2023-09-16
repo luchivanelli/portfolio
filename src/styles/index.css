@@ -25,7 +25,7 @@ body {
   top: -20px;
 }
 
-@keyframes derecha {
+/* @keyframes derecha {
   0% {
     transform: translateX(1000px);
   }
@@ -41,7 +41,7 @@ body {
   100% {
     transform: translateX(0);
   }
-}
+} */
 
 @media screen and (min-width: 768px) {
   .section-title {
