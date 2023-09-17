@@ -11,6 +11,8 @@ font-family: 'Roboto Mono', monospace; */
 
 body {
   font-family: 'Chivo Mono', monospace;
+  background-color: #000;
+  height: auto;
 }
 
 .app {

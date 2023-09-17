@@ -10,9 +10,9 @@ const App = ()=> {
   return (
     <div className="app">
       <Header/>
-      {/* <Home/> */}
+      <Home/>
       <Skills/>
-      <Experience/>
+      {/* <Experience/> */}
       <Projects/>
       <Footer/>
     </div>
