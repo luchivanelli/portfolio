@@ -10,7 +10,7 @@ const App = ()=> {
   return (
     <div className="app">
       <Header/>
-      <Home/>
+      {/* <Home/> */}
       <Skills/>
       <Experience/>
       <Projects/>

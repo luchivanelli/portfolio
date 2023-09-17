@@ -19,13 +19,13 @@ body {
   background-attachment: fixed;
 }
 
-/* .section-title {
+.section-title {
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
   letter-spacing: 2px;
   font-size: 28px;
   top: -20px;
-} */
+}
 
 /* @keyframes derecha {
   0% {
@@ -45,10 +45,10 @@ body {
   }
 } */
 
-/* @media screen and (min-width: 768px) {
+@media screen and (min-width: 768px) {
   .section-title {
     font-size: 32px;
     top: -22px;
   }
 
-} */
+}
