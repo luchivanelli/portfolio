@@ -9,7 +9,7 @@ import './styles/index.css'
 const App = ()=> {
   return (
     <div className="app">
-      {/* <Header/> */}
+      <Header/>
       <Home/>
       <Skills/>
       <Experience/>

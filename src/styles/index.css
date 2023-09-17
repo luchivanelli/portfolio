@@ -11,19 +11,21 @@ font-family: 'Roboto Mono', monospace; */
 
 body {
   font-family: 'Chivo Mono', monospace;
+}
+
+.app {
   background: rgb(0,0,0);
   background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(77,42,149,1) 0%, rgba(0,0,0,1) 100%);
   background-attachment: fixed;
-  height: auto;
 }
 
-.section-title {
+/* .section-title {
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
   letter-spacing: 2px;
   font-size: 28px;
   top: -20px;
-}
+} */
 
 /* @keyframes derecha {
   0% {
@@ -43,10 +45,10 @@ body {
   }
 } */
 
-@media screen and (min-width: 768px) {
+/* @media screen and (min-width: 768px) {
   .section-title {
     font-size: 32px;
     top: -22px;
   }
 
-}
+} */
