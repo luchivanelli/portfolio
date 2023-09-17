@@ -12,7 +12,7 @@ const App = ()=> {
       <Header/>
       <Home/>
       <Skills/>
-      {/* <Experience/> */}
+      <Experience/>
       <Projects/>
       <Footer/>
     </div>
