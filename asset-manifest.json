@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.33dd59ad.css",
-    "main.js": "/portfolio/static/js/main.d11a9b43.js",
+    "main.css": "/portfolio/static/css/main.54de88ac.css",
+    "main.js": "/portfolio/static/js/main.5ddc599e.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/CV.pdf": "/portfolio/static/media/CV.2071cab15eeaaa22c28a.pdf",
+    "static/media/CV.pdf": "/portfolio/static/media/CV.927b1a685f95d6c4f32c.pdf",
     "static/media/infoplayer.png": "/portfolio/static/media/infoplayer.946a27d6a2b59432b60f.png",
     "static/media/luciana-micaela-vanelli-bn.jpg": "/portfolio/static/media/luciana-micaela-vanelli-bn.4087b900c9b4449c615c.jpg",
     "static/media/luciana-micaela-vanelli.jpg": "/portfolio/static/media/luciana-micaela-vanelli.831aefb778df2daf152a.jpg",
+    "static/media/boca.png": "/portfolio/static/media/boca.03214fba9722a89caead.png",
     "static/media/pia.png": "/portfolio/static/media/pia.5a8e5ec7fa245aceec88.png",
-    "static/media/todolist.png": "/portfolio/static/media/todolist.9426be662fbf386787c3.png",
     "static/media/calculator.png": "/portfolio/static/media/calculator.f235e921f2ae5fc63eac.png",
     "index.html": "/portfolio/index.html",
-    "main.33dd59ad.css.map": "/portfolio/static/css/main.33dd59ad.css.map",
-    "main.d11a9b43.js.map": "/portfolio/static/js/main.d11a9b43.js.map",
+    "main.54de88ac.css.map": "/portfolio/static/css/main.54de88ac.css.map",
+    "main.5ddc599e.js.map": "/portfolio/static/js/main.5ddc599e.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33dd59ad.css",
-    "static/js/main.d11a9b43.js"
+    "static/css/main.54de88ac.css",
+    "static/js/main.5ddc599e.js"
   ]
 }
