@@ -23,7 +23,7 @@ const Experience = ()=> {
                     <p>Development and layout of responsive web pages. Teamwork using Git, Github and Trello.</p>
                     <div onClick={toggleCertificate} className='certificate d-flex justify-content-center'><img src={img} alt='certificate-inkua'/></div>
                 </div>
-                <div className='experience-project'>
+                <div className='experience-project d-flex justify-content-center align-items-center'>
                     <h3 className='experience-project-title'>Project carried out during the internship:</h3>
                     <div className='experience-project-content'>
                         <h4>Horses in freedom</h4>

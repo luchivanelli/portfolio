@@ -53,6 +53,7 @@
     text-align: center;
     margin: 0;
     font-size: 15px;
+    padding-bottom: 5px;
 }
 
 .project-links {
@@ -60,20 +61,20 @@
 }
 
 .project-links a {
-    margin-top: 5px;
+    font-size: 15px;
     padding: 2px 10px;
+    border: 2px solid var(--yellow);
     border-radius: 15px;
-    text-decoration: none;
     color: #fff;
-    background-color: var(--violet);
-    border: 1px solid #000;
+    text-decoration: none;
     transition: all 0.5s;
-    width: 120px;
+    width: 110px;
     text-align: center;
 }
 
 .project-links a:hover {
-    background-color: #000;
+    background-color: var(--yellow);
+    color: var(--violet);
     transition: all 0.3s;
 }
 

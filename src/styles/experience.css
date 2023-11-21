@@ -2,7 +2,7 @@
     position: relative;
     margin: 20px 20px 0;
     border-top: 2px solid #e9dea062;
-    padding: 30px 0 20px;
+    padding: 40px 0 20px;
     flex-direction: column;
 }
 
@@ -90,12 +90,15 @@
 .experience-project {
     margin: 50px 0;
     text-align: center;
+    gap: 20px;
+    max-width: 600px;
 }
 
 .experience-project-title {
     color: #fff;
     font-size: 18px;
     font-weight: 100;
+    line-height: 30px;
 }
 
 .experience-project-content h4 {
@@ -113,7 +116,7 @@
 }
 
 .experience-links a {
-    padding: 3px 10px;
+    padding: 2px 10px;
     border: 2px solid var(--yellow);
     border-radius: 15px;
     color: #fff;
@@ -157,5 +160,16 @@
 
     .experience-project {
         margin: 30px;
+        flex-direction: column;
+        max-width: 100%;
+    }
+
+    .experience-project-content {
+        border: 2px solid var(--yellow);
+        padding: 10px;
+    }
+
+    .experience-project-content p {
+        padding: 2px 10px;
     }
 }

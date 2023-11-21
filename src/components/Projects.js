@@ -1,15 +1,15 @@
 import '../styles/projects.css'
 import img1 from '../images/calculator.png'
 import img2 from '../images/infoplayer.png'
-import img3 from '../images/todolist.png'
+import img3 from '../images/boca.png'
 import img4 from '../images/pia.png'
 import Project from './Project'
 
 const projects = [
-    {img: img1, name: 'Friends Calculator', skills: 'React (react-router-dom, formik) - Sass', deploy: 'https://luchivanelli.github.io/calculator/', repository: 'https://github.com/luchivanelli/calculator'},
+    {img: img1, name: 'Friends Calculator', skills: 'React (react-router, formik) - Sass', deploy: 'https://luchivanelli.github.io/calculator/', repository: 'https://github.com/luchivanelli/calculator'},
     {img: img2, name: 'Infoplayer', skills: 'React - Bootstrap - API (thesportsdb)', deploy: 'https://luchivanelli.github.io/infoplayer/', repository: 'https://github.com/luchivanelli/infoplayer'},
-    {img: img3, name: 'To do list', skills: 'React (redux toolkit) - Sass - BEM methodology', deploy: 'https://luchivanelli.github.io/todolist/', repository: 'https://github.com/luchivanelli/todolist'},
-    {img: img4, name: 'PIA', skills: 'HTML - CSS', deploy: 'https://luchivanelli.github.io/LandingPagePIA/', repository: 'https://github.com/luchivanelli/LandingPagePIA'}
+    {img: img3, name: 'Arroyo Seco es de Boca', skills: 'React (formik) - Bootstrap ', deploy: 'https://luchivanelli.github.io/arroyosecoesdeboca/', repository: 'https://github.com/luchivanelli/arroyosecoesdeboca'},
+    {img: img4, name: 'PIA (landing page)', skills: 'HTML - CSS', deploy: 'https://luchivanelli.github.io/LandingPagePIA/', repository: 'https://github.com/luchivanelli/LandingPagePIA'}
 ]
 
 const Projects = ()=> {

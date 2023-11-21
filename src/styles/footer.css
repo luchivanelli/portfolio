@@ -1,7 +1,7 @@
 .footer {
-    border-top: 2px solid #0000004d;
     padding: 10px 0;
-    background-color: var(--violet);
+    background-color: #00000086;
+    backdrop-filter: blur(8px);
     gap: 5px;
 }
 

@@ -16,17 +16,19 @@ body {
 }
 
 .app {
-  background: rgb(0,0,0);
+  /* background: rgb(0,0,0);
   background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(77,42,149,1) 0%, rgba(0,0,0,1) 100%);
-  background-attachment: fixed;
+  background-attachment: fixed; */
+  background-color: #4d2a95;
 }
 
 .section-title {
-  font-family: 'Montserrat', sans-serif;
   font-weight: 600;
   letter-spacing: 2px;
-  font-size: 28px;
-  top: -20px;
+  font-size: 30px;
+  top: -22px;
+  -webkit-text-stroke: 1px #e9dea0;
+  color: transparent;
 }
 
 /* @keyframes derecha {
